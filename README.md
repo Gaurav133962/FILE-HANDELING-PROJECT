@@ -9,4 +9,6 @@ learn connecting vs code to git and also downloaded git in system
 <br>
 i made the game of guessing the integer in the range of 1 to 1000 also it tells the no. to me so that i can test if its working properly or not
 <br>
-i started learning advance pyhton and numpy library
+i completed PYTHON 
+<br>
+i started numpy
